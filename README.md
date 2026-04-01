@@ -98,8 +98,8 @@ Here you will find selected repositories that reflect:
 
 ## 🤝 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/muhammad-naveed-1a2197233  
+- 📧 Email: muhammadnaveedweb@gmail.com  
 
 ---
 
