@@ -2,7 +2,7 @@
 
 💻 Full-Stack Web & Mobile App Developer | Laravel & React Specialist  
 🎓 Master's Student in IT Engineering  
-📍 Germany | Open to Part Time, Remote & Working Student (Werkstudent) Opportunities  
+📍 Germany | Open to Full Time, Part Time, Remote or Working Student Opportunities  
 
 ---
 
