@@ -8,13 +8,11 @@
 
 ## 🚀 About Me
 
-**Full-Stack Developer** with 6+ years of experience, specializing in PHP and JavaScript, building scalable and
-reliable web and mobile applications. 
+**Working Student (Werkstudent) - Full Stack Development** Master’s student in IT Engineering at FH Wedel with strong hands-on experience in web and mobile development using PHP, Laravel, React, and React Native.
 
-Currently pursuing a Master’s degree in IT Engineering at FH Wedel University of Applied Sciences, combining industry experience with academic knowledge.
+Experienced in supporting production systems, developing features, fixing bugs, and collaborating with senior developers in agile teams.
 
-Passionate about writing clean, maintainable, and well-structured code, following best practices to deliver
-high-quality, production-ready solutions.
+Motivated to apply practical skills, learn German industry best practices, and contribute long-term while completing my Master’s degree.
 
 **Primary Stack:** PHP, Laravel, React JS, React Native, TypeScript, SQL (MySQL)
 
