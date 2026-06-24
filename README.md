@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-**Working Student (Werkstudent) - Full Stack Development** 
+**Full Stack Developer** 
 
 Master’s student in IT Engineering at FH Wedel with strong hands-on experience in web and mobile development using PHP, Laravel, React, and React Native.
 
